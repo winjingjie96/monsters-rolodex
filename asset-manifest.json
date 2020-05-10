@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/winjingjie96/monsters-rolodex/static/css/main.a9f0237e.chunk.css",
-    "main.js": "/winjingjie96/monsters-rolodex/static/js/main.450f4e87.chunk.js",
-    "main.js.map": "/winjingjie96/monsters-rolodex/static/js/main.450f4e87.chunk.js.map",
-    "runtime-main.js": "/winjingjie96/monsters-rolodex/static/js/runtime-main.3b0a7f53.js",
-    "runtime-main.js.map": "/winjingjie96/monsters-rolodex/static/js/runtime-main.3b0a7f53.js.map",
-    "static/js/2.7d94dc6b.chunk.js": "/winjingjie96/monsters-rolodex/static/js/2.7d94dc6b.chunk.js",
-    "static/js/2.7d94dc6b.chunk.js.map": "/winjingjie96/monsters-rolodex/static/js/2.7d94dc6b.chunk.js.map",
-    "index.html": "/winjingjie96/monsters-rolodex/index.html",
-    "precache-manifest.39c675d0462470686c0d94b67b81c370.js": "/winjingjie96/monsters-rolodex/precache-manifest.39c675d0462470686c0d94b67b81c370.js",
-    "service-worker.js": "/winjingjie96/monsters-rolodex/service-worker.js",
-    "static/css/main.a9f0237e.chunk.css.map": "/winjingjie96/monsters-rolodex/static/css/main.a9f0237e.chunk.css.map",
-    "static/js/2.7d94dc6b.chunk.js.LICENSE.txt": "/winjingjie96/monsters-rolodex/static/js/2.7d94dc6b.chunk.js.LICENSE.txt"
+    "main.css": "/monsters-rolodex/static/css/main.a9f0237e.chunk.css",
+    "main.js": "/monsters-rolodex/static/js/main.9d873b72.chunk.js",
+    "main.js.map": "/monsters-rolodex/static/js/main.9d873b72.chunk.js.map",
+    "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.7c0f1f0f.js",
+    "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.7c0f1f0f.js.map",
+    "static/js/2.7d94dc6b.chunk.js": "/monsters-rolodex/static/js/2.7d94dc6b.chunk.js",
+    "static/js/2.7d94dc6b.chunk.js.map": "/monsters-rolodex/static/js/2.7d94dc6b.chunk.js.map",
+    "index.html": "/monsters-rolodex/index.html",
+    "precache-manifest.10bcaeacf3415a019b287bfffa45c593.js": "/monsters-rolodex/precache-manifest.10bcaeacf3415a019b287bfffa45c593.js",
+    "service-worker.js": "/monsters-rolodex/service-worker.js",
+    "static/css/main.a9f0237e.chunk.css.map": "/monsters-rolodex/static/css/main.a9f0237e.chunk.css.map",
+    "static/js/2.7d94dc6b.chunk.js.LICENSE.txt": "/monsters-rolodex/static/js/2.7d94dc6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b0a7f53.js",
+    "static/js/runtime-main.7c0f1f0f.js",
     "static/js/2.7d94dc6b.chunk.js",
     "static/css/main.a9f0237e.chunk.css",
-    "static/js/main.450f4e87.chunk.js"
+    "static/js/main.9d873b72.chunk.js"
   ]
 }
